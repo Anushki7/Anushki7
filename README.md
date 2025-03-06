@@ -10,6 +10,8 @@
 
 На данный момент в поисках предложений на место верстальщика.
 
+Контакты: @ann_379 telegram
+
 <!--
 **Anushki7/Anushki7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
